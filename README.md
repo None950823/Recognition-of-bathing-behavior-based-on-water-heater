@@ -1,0 +1,3 @@
+# Recognition-of-bathing-behavior-based-on-water-heater
+Use the user-recorded thermal period to use the log as a data set. Through data analysis and data mining, identify bathing events in water use events.
+This project is based on the time series data collected by the water heater. The sequentially arranged discrete water time nodes are divided into time intervals of different sizes according to water flow and pause intervals. Each interval is an understandable complete water consumption event. A complete water use event is a basic event. Time series data is divided into independent water use events and the time of bathing is identified. (Theoretically, the frequency at which the single-chip microcomputer records data is once every 2 seconds.)
